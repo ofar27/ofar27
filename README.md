@@ -1,6 +1,6 @@
 # Ouissal Farih 👩‍💻
 
-## 👩‍💻 À propos de moi
+## 📍 À propos de moi
 
 Bienvenue sur mon profil GitHub ! 
 
