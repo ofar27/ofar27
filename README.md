@@ -1,6 +1,18 @@
 # Ouissal Farih 👩‍💻
 
-Bonjour et bienvenue sur mon profil GitHub ! Je suis **étudiante en ingénierie** spécialisée en **data science** et **analyse de données**. J'aime résoudre des problèmes complexes, collaborer en équipe, et toujours améliorer mes compétences.
+## 👩‍💻 À propos de moi
+
+Bienvenue sur mon profil GitHub ! 
+
+Je suis **étudiante en ingénierie informatique**, passionnée par :
+
+- **Data science** 📊
+- **Analyse de données** 📈
+- **Développement web** 💻
+
+Mon objectif ? Transformer des **défis techniques** en **solutions innovantes** et **pratiques**, tout en affinant constamment mes compétences pour créer des **projets performants** et **pertinents**.
+
+🔧 Toujours en quête de nouvelles technologies pour **perfectionner** mon travail et innover dans mes projets.
 
 ---
 
